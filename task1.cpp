@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+// https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
 class Solution {
 public:
     std::string mergeAlternately(std::string word1, std::string word2){
